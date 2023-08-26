@@ -1,0 +1,40 @@
+body{
+    background-color: #adacac;
+}
+.container{
+    width: 30rem;
+    height: 25rem;
+    display: flex;
+    margin: 18vh 35vw;
+    flex-direction: column;
+    background-color: #fff;
+    padding: 3.3em;
+    gap: 2.2em;
+    border-radius: 10% 10%;
+}
+.container header{
+    font-size: 2.5rem;
+    text-align: center;
+}
+label{
+    font-size: 1.2rem; 
+    color: #adacac;
+}
+.name{
+    color: #adacac;
+    height: 2.0rem;
+    border: 0px;
+    border-bottom: 1px solid #adacac;
+}
+.password{
+    color: #adacac;
+    font-size: 2.0rem;
+    border: 0px;
+    border-bottom: 1px solid #adacac;
+}
+button{
+    height: 2.5rem;
+    background-color: #236af9;
+    color: #fff;
+    border-radius: 5px 5px;
+}
